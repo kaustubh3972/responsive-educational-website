@@ -1,0 +1,89 @@
+@media only screen and (max-width: 942px) {
+	.navbar {
+		flex-direction: column;
+		transition: all 0.7s ease-out;
+		height: 360px;
+	}
+	.h-nav-resp {
+		height: 60px;
+	}
+	.v-class-resp {
+		opacity: 0;
+	}
+	.nav-list {
+		flex-direction: column;
+		left: 0%;
+	}
+	.rightNav {
+		text-align: center;
+		width: 25%;
+		padding: 0px;
+	}
+	#search {
+		width: 90%;
+		margin: 0.4rem 0;
+	}
+	.btn-nav {
+		margin: 2%;
+	}
+	.burger {
+		display: block;
+	}
+	.box-main {
+		flex-direction: column-reverse;
+		max-width: 100%;
+		text-align: center;
+	}
+	.firstSection .text-big {
+		margin-top: 0px;
+	}
+	.right img {
+		margin-top: 140%;
+		width: 130px;
+	}
+	.btn {
+		margin: 5px;
+	}
+	.secondSection {
+		max-width: 100%;
+		padding: 0px;
+		flex-direction: column;
+		text-align: center;
+	}
+	h1 {
+		font-size: 2.5em;
+	}
+	.text-big {
+		font-size: 1.5em;
+		text-align: center;
+	}
+	.text-small {
+		padding: 10px;
+	}
+	.thumbnail img {
+		height: 170px;
+		margin: 10px;
+	}
+	.paras {
+		padding: 0 15px;
+	}
+	.sectionSubTag {
+		font-size: 1.1em;
+	}
+	.contact {
+		height: 400px;
+	}
+	.form {
+		width: 100%;
+	}
+	.input {
+		margin: 0%;
+		margin-bottom: 1%;
+		font-size: 15px;
+		padding: 1%;
+		width: 40%;
+	}
+	.submit {
+		width: 30%;
+	}
+}
